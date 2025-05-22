@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ドラッグ可能なカスタムドロップダウン</title>
+    <style>
+        .dropdown {
+            width: 200px;
+            border: 1px solid #ccc;
+            position: relative;
+        }
+
+        .dropdown-menu {
+            display: none;
+            border: 1px solid #ccc;
+            position: absolute;
+            background-color: white;
+            z-index: 1;
+            max-height: 200px;
+            overflow-y: auto;
+            width: 100%;
+        }
+
+        .dropdown-menu.visible {
+            display: block;
+        }
+
+        .dropdown-item {
+            padding: 8px;
+            cursor: grab;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .dropdown-item:hover {
+            background-color: #f0f0f0;
+        }
+
+        .dragging {
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+
+<div class="dropdown">
+    <button id="dropdownButton">選択してください</button>
+    <ul id="dropdownMenu" class="dropdown-menu">
+        <li class="dropdown-item" draggable="true">Apple</li>
+        <li class="dropdown-item" draggable="true">Banana</li>
+        <li class="dropdown-item" draggable="true">Cherry</li>
+        <li class="dropdown-item" draggable="true">Date</li>
+        <li class="dropdown-item" draggable="true">Elderberry</li>
+    </ul>
+</div>
+
+<script>
+    const dropdownButton = document.getElementById('dropdownButton');
+    const dropdownMenu = document.getElementById('dropdownMenu');
+    const items = dropdownMenu.querySelectorAll('.dropdown-item');
+
+    // ドロップダウンを表示/非表示にする
+    dropdownButton.addEventListener('click', () => {
+        dropdownMenu.classList.toggle('visible');
+    });
+
+    // ドラッグ中のアイテム
+    let draggedItem = null;
+
+    // ドラッグ開始時の処理
+    items.forEach(item => {
+        item.addEventListener('dragstart', () => {
+            draggedItem = item;
+            item.classList.add('dragging');
+        });
+
+        // ドラッグ終了時の処理
+        item.addEventListener('dragend', () => {
+            item.classList.remove('dragging');
+        });
+
+        // ドラッグオーバー時の処理
+        item.addEventListener('dragover', (event) => {
+            event.preventDefault(); // デフォルトの動作を防ぐ
+        });
+
+        // ドロップ時の処理
+        item.addEventListener('drop', () => {
+            if (draggedItem !== item) {
+                const allItems = Array.from(dropdownMenu.querySelectorAll('.dropdown-item'));
+                const draggedIndex = allItems.indexOf(draggedItem);
+                const targetIndex = allItems.indexOf(item);
+
+                // 並べ替え
+                if (draggedIndex < targetIndex) {
+                    dropdownMenu.insertBefore(draggedItem, item.nextSibling);
+                } else {
+                    dropdownMenu.insertBefore(draggedItem, item);
+                }
+            }
+        });
+    });
+</script>
+
+</body>
+</html>

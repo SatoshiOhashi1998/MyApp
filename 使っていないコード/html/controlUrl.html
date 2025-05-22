@@ -1,0 +1,41 @@
+{% extends "format.html" %}
+{% block head %}
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube URL Cleaner</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+        }
+        .btn-custom {
+            margin: 5px;
+        }
+        #result {
+            margin-top: 20px;
+        }
+    </style>
+{% endblock %}
+{% block body %}
+<div class="container">
+        <h1 class="text-center">YouTube URL Cleaner</h1>
+        <div class="text-center">
+            <button id="clean-url-button" class="btn btn-primary btn-custom">パラメータを取り除く</button>
+        </div>
+        <h3 class="text-center">時間指定を増減</h3>
+        <div class="text-center">
+            <button data-increment="1" class="btn btn-success btn-custom">+1秒</button>
+            <button data-increment="-1" class="btn btn-danger btn-custom">-1秒</button>
+            <button data-increment="5" class="btn btn-success btn-custom">+5秒</button>
+            <button data-increment="-5" class="btn btn-danger btn-custom">-5秒</button>
+            <button data-increment="10" class="btn btn-success btn-custom">+10秒</button>
+            <button data-increment="-10" class="btn btn-danger btn-custom">-10秒</button>
+            <button data-increment="30" class="btn btn-success btn-custom">+30秒</button>
+            <button data-increment="-30" class="btn btn-danger btn-custom">-30秒</button>
+            <button data-increment="60" class="btn btn-success btn-custom">+60秒</button>
+            <button data-increment="-60" class="btn btn-danger btn-custom">-60秒</button>
+        </div>
+        <p id="result" class="text-center"></p>
+    </div>
+<script src="static/js/controlUrl.js"></script>
+{% endblock %}

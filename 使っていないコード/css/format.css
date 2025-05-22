@@ -1,0 +1,173 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #e6e6e6;
+    letter-spacing : 0.2em;
+    color: black;
+}
+header {
+    margin-left: 0; /* 余白をリセット */
+    margin-top: 4px;
+    margin-bottom: 0px; /* 必要に応じて調整 */
+    position: relative; /* 固定表示を解除 */
+    width: 100%;
+    background-color: transparent;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* 左寄せに変更 */
+}
+
+header nav {
+    width: 100%;
+}
+
+/*header nav {
+    width: 100%
+}
+*/header a{
+    text-decoration: none;
+    color: black;
+}
+.dropdown-toggle {
+    color: black;
+}
+.footerMenu{
+    display: flex;
+}
+.footerMenu > li{
+    display: inline-block;
+}
+.footerMenu > li > a{
+    padding: 15px 30px;
+    display: block;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    text-decoration: none;
+    color: black;
+}
+.footerMenu > li > span{
+    margin-left: 1.2em;
+    font-color: black;
+}
+.footerMenu > li:hover > a{
+    background-color: #efefef;
+    color: #444;
+}
+ 
+/* Submenu */
+ 
+.outer-ul li ul{
+    position: absolute;
+    top: 50px;
+    /*left: -20px;*/
+}
+.outer-ul li ul li{
+    display: block;
+    position: relative;
+    left: -32px;
+}
+.outer-ul li ul li a{
+    background-color: #efefef;
+    color: #444;
+    white-space: nowrap;
+    text-decoration: none;
+  }
+.outer-ul li ul li a:hover{
+    background-color: #ddd;
+}
+
+.main{
+    position: relative;
+    top: 10px;
+}
+.footer {
+    position: relative;
+    color: #808080;
+    background: #e5e5e5;
+    padding: 30px;
+}
+.footer a {
+ color: #808080;
+ text-decoration: none;
+}
+.footer a:hover {
+ text-decoration: underline;
+}
+.footer .footerMenu {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+ display: flex;
+ flex-wrap: wrap;
+}
+.footer .footerMenu li {
+ margin: 0;
+ padding: 0 20px 0 0;
+}
+.footer .copyright {
+ margin: 0;
+ padding: 20px 0 0 0;
+}
+.controlFile{
+    color: white;
+    cursor: pointer;
+    cursor: hand;
+    position: relative;
+    top: 14px;
+}
+
+@charset "UTF-8";
+#tab-container {
+    display: flex;
+    list-style:none;
+}
+.tab {
+    width: 120px;
+    padding: 0 20px 0 0;
+    background-color: #e6e6e6;
+    flex-wrap: wrap;
+}
+.tab-container li a{
+  display: block;
+  background:#ddd;
+  margin:0 2px;
+  padding:10px 20px;
+}
+/*liにactiveクラスがついた時の形状*/
+.tab-container .tab.active a{
+  background-color:#fff;
+}
+
+/*エリアの表示非表示と形状*/
+.wrapper-content {
+  display: none;/*はじめは非表示*/
+  opacity: 0;/*透過0*/
+  padding:50px 20px;
+}
+
+/*areaにis-activeというクラスがついた時の形状*/
+.wrapper-content.is-active {
+    display: block;/*表示*/
+    animation-name: displayAnime;/*ふわっと表示させるためのアニメーション*/
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes displayAnime{
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.wrapper-tab {
+  width:100%;
+  max-width: 960px;
+  margin:30px auto;
+  background:#fefefe;
+}

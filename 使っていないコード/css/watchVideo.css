@@ -1,0 +1,63 @@
+/* ビデオプレーヤーのスタイル */
+#mainVideo {
+    width: 100%;
+    height: 100%;
+}
+
+/* おすすめ動画セクションのスタイル */
+.recommendations-container {
+    position: relative;
+    top: 12px;
+}
+
+.video-item {
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: -40px;
+    padding-bottom: 10px;
+    overflow: hidden; /* 画像がはみ出さないようにする */
+}
+
+.video-item video {
+    width: 100%;
+    display: block; /* デフォルトでビデオを表示 */
+}
+
+.video-thumbnail {
+    width: 100%;
+    height: auto;
+    display: block; /* サムネイルがある場合は表示 */
+}
+
+.video-item .video-thumbnail {
+    display: block; /* サムネイルがある場合は表示 */
+}
+
+/* デフォルトでは非表示 */
+.video-item .video-description {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1;
+    transition: opacity 0.3s;
+}
+
+/* ホバー時に表示 */
+.video-item:hover .video-description {
+    display: block;
+}
+
+/* ヘッダーのスタイル */
+.recommendations-container h3 {
+    font-size: 24px; /* フォントサイズ */
+    font-weight: bold; /* 太字 */
+    color: #333; /* テキストカラー */
+    margin-bottom: 10px; /* 下マージン */
+    cursor: pointer;
+}

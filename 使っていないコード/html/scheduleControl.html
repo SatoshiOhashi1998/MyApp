@@ -1,0 +1,78 @@
+{% extends "format.html" %}
+{% block head %}
+<style>
+    .button-container {
+        padding-top: 26px;
+    }
+</style>
+{% endblock %}
+{% block body %}
+<div class="container">
+    <h2>【ページを開く】</h2>
+    <form id="schedule_url_form" class="mt-4">
+        <div class="form-row">
+            <div class="form-group col-md-4">
+                <label for="url">URL:</label>
+                <input type="text" class="form-control" id="url" name="url" style="width: 100%;" required>
+            </div>
+            <div class="form-group col-md-2">
+                <label for="hour">Hour (0-23):</label>
+                <input type="number" class="form-control" id="hour" name="hour" min="0" max="23" value="{{ now.hour }}" required>
+            </div>
+            <div class="form-group col-md-2">
+                <label for="minute">Minute (0-59):</label>
+                <input type="number" class="form-control" id="minute" name="minute" min="0" max="59" value="{{ now.minute }}" required>
+            </div>
+        </div>
+        <div class="button-container">
+            <button type="submit" class="btn btn-primary">Schedule URL</button>
+            <button type="button" class="btn btn-secondary" onclick="setTime(0)">Reset</button>
+            <button type="button" class="btn btn-secondary" onclick="setTime(5)">5 Minutes Later</button>
+            <button type="button" class="btn btn-secondary" onclick="setTime(10)">10 Minutes Later</button>
+            <button type="button" class="btn btn-secondary" onclick="setTime(30)">30 Minutes Later</button>
+            <button type="button" class="btn btn-secondary" onclick="setTime(60)">1 Hour Later</button>
+        </div>
+    </form>
+    <br>
+    <br>
+    <h2>【パソコンを閉じる】</h2>
+    <form id="shutdown_pc_form" class="mt-4">
+        <div class="form-row">
+            <div class="form-group col-md-2">
+                <label for="shutdown_hour">Hour (0-23):</label>
+                <input type="number" class="form-control" id="shutdown_hour" name="shutdown_hour" min="0" max="23" value="{{ now.hour }}" required>
+            </div>
+            <div class="form-group col-md-2">
+                <label for="shutdown_minute">Minute (0-59):</label>
+                <input type="number" class="form-control" id="shutdown_minute" name="shutdown_minute" min="0" max="59" value="{{ now.minute }}" required>
+            </div>
+        </div>
+        <div class="button-container">
+            <button type="submit" class="btn btn-primary">Schedule Shutdown</button>
+            <button type="button" class="btn btn-secondary" onclick="setShutdownTime(0)">Reset</button>
+            <button type="button" class="btn btn-secondary" onclick="setShutdownTime(5)">5 Minutes Later</button>
+            <button type="button" class="btn btn-secondary" onclick="setShutdownTime(10)">10 Minutes Later</button>
+            <button type="button" class="btn btn-secondary" onclick="setShutdownTime(30)">30 Minutes Later</button>
+            <button type="button" class="btn btn-secondary" onclick="setShutdownTime(60)">1 Hour Later</button>
+        </div>
+    </form>
+</div>
+<!-- Bootstrap JS -->
+<!-- JavaScript for setting time -->
+<script defer type="text/javascript" src="static/js/scheduleControl.js"></script>
+<script>
+    function setTime(minutes) {
+        var now = new Date();
+        now.setMinutes(now.getMinutes() + minutes);
+        document.getElementById("hour").value = now.getHours();
+        document.getElementById("minute").value = now.getMinutes();
+    }
+
+    function setShutdownTime(minutes) {
+        var now = new Date();
+        now.setMinutes(now.getMinutes() + minutes);
+        document.getElementById("shutdown_hour").value = now.getHours();
+        document.getElementById("shutdown_minute").value = now.getMinutes();
+    }
+</script>
+{% endblock %}
