@@ -1,0 +1,738 @@
+2025-02-28 21:10:02,199 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-02-28 21:10:02,221 - ERROR - コメントが抽出できませんでした: まぢで眠い人の配信( ＊´艸｀) .json
+2025-03-01 10:52:29,664 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 10:52:29,702 - ERROR - コメントが抽出できませんでした: attu~in？？？？？.json
+2025-03-01 11:03:58,599 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 11:03:58,608 - ERROR - コメントが抽出できませんでした: 【Project F】バララくコ：彡専【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-01 11:06:20,845 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 11:06:20,852 - ERROR - コメントが抽出できませんでした: 【VALORANT⧸OW2】のちにふるぱになりたいもの→おばおちに流れ着いたものたち【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-01 16:55:54,038 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:55:54,095 - ERROR - コメントが抽出できませんでした: attu~in？？？？？.json
+2025-03-01 16:55:54,416 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:55:54,431 - ERROR - コメントが抽出できませんでした: 【Project F】バララくコ：彡専【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-01 16:55:54,843 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:55:54,854 - ERROR - コメントが抽出できませんでした: 【VALORANT⧸OW2】のちにふるぱになりたいもの→おばおちに流れ着いたものたち【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-01 16:55:55,510 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:55:55,538 - ERROR - コメントが抽出できませんでした: まぢで眠い人の配信( ＊´艸｀) .json
+2025-03-01 16:57:49,155 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:57:49,203 - ERROR - コメントが抽出できませんでした: attu~in？？？？？.json
+2025-03-01 16:57:49,455 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:57:49,465 - ERROR - コメントが抽出できませんでした: 【Project F】バララくコ：彡専【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-01 16:57:49,695 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:57:49,705 - ERROR - コメントが抽出できませんでした: 【VALORANT⧸OW2】のちにふるぱになりたいもの→おばおちに流れ着いたものたち【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-01 16:57:50,235 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:57:50,255 - ERROR - コメントが抽出できませんでした: まぢで眠い人の配信( ＊´艸｀) .json
+2025-03-01 16:58:43,674 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:58:43,728 - ERROR - コメントが抽出できませんでした: attu~in？？？？？.json
+2025-03-01 16:58:44,106 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:58:44,114 - ERROR - コメントが抽出できませんでした: 【Project F】バララくコ：彡専【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-01 16:58:51,149 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:58:51,175 - ERROR - コメントが抽出できませんでした: まぢで眠い人の配信( ＊´艸｀) .json
+2025-03-01 16:59:38,803 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:59:38,855 - ERROR - コメントが抽出できませんでした: attu~in？？？？？.json
+2025-03-01 16:59:39,248 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:59:39,260 - ERROR - コメントが抽出できませんでした: 【Project F】バララくコ：彡専【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-01 16:59:40,211 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 16:59:40,244 - ERROR - コメントが抽出できませんでした: まぢで眠い人の配信( ＊´艸｀) .json
+2025-03-01 17:07:25,142 - ERROR - 予期しないエラーが発生しました: 'title'
+2025-03-01 17:07:25,195 - ERROR - コメントが抽出できませんでした: attu~in？？？？？.json
+2025-03-01 17:07:25,565 - ERROR - 予期しないエラーが発生しました: 'title'
+2025-03-01 17:07:25,585 - ERROR - コメントが抽出できませんでした: 【Project F】バララくコ：彡専【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-01 17:07:26,241 - ERROR - 予期しないエラーが発生しました: 'title'
+2025-03-01 17:07:26,289 - ERROR - コメントが抽出できませんでした: まぢで眠い人の配信( ＊´艸｀) .json
+2025-03-01 17:08:01,765 - ERROR - 予期しないエラーが発生しました: 'title'
+2025-03-01 17:08:01,815 - ERROR - コメントが抽出できませんでした: attu~in？？？？？.json
+2025-03-01 17:08:02,119 - ERROR - 予期しないエラーが発生しました: 'title'
+2025-03-01 17:08:02,131 - ERROR - コメントが抽出できませんでした: 【Project F】バララくコ：彡専【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-01 17:08:03,161 - ERROR - 予期しないエラーが発生しました: 'title'
+2025-03-01 17:08:03,183 - ERROR - コメントが抽出できませんでした: まぢで眠い人の配信( ＊´艸｀) .json
+2025-03-01 22:29:23,290 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-01 22:29:23,377 - ERROR - コメントが抽出できませんでした: 【Liar's Bar】命がけのギャンブル開始！嘘乙＾~^！！！！#LVG【ぶいすぽっ！⧸花芽すみれ】.json
+2025-03-02 10:35:36,927 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-02 10:35:36,958 - ERROR - コメントが抽出できませんでした: 【APEX】SBI NEXUM大会 ほのすみつかいLet's go~!!!【 ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-02 18:01:15,690 - ERROR - 予期しないエラーが発生しました: 
+2025-03-02 18:01:15,867 - ERROR - コメントが抽出できませんでした: 【#花芽すみれ3周年】初のカメラ枠で料理チャレンジ＋告知もある【 ぶいすぽ⧸ 花芽すみれ】.json
+2025-03-02 18:37:54,998 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-02 18:37:55,011 - ERROR - コメントが抽出できませんでした: 【APEX】CRカップに向けてれんしう【LVG ⧸ 花芽すみれ】 [tUs89xPtVsE].live_chat.json
+2025-03-02 18:43:33,789 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-02 18:43:33,805 - ERROR - コメントが抽出できませんでした: 【APEX】I'm  ready~~~~~~.json
+2025-03-02 19:54:08,617 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-02 19:54:08,652 - ERROR - コメントが抽出できませんでした: 【初見】『Five Nights at Freddy's』🐻【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-02 23:58:00,302 - ERROR - ライブチャット取得中にエラーが発生しました: [WinError 2] 指定されたファイルが見つかりません。
+2025-03-02 23:58:25,256 - ERROR - ライブチャット取得中にエラーが発生しました: [WinError 2] 指定されたファイルが見つかりません。
+2025-03-02 23:59:37,100 - ERROR - ライブチャット取得中にエラーが発生しました: [WinError 2] 指定されたファイルが見つかりません。
+2025-03-03 00:23:47,787 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=c_QSw1go3Cc - コマンド: dl --skip-download --write-subs --sub-lang live_chat --cookies cookies.txt -o live_chat/%(title)s [%(id)s].%(ext)s https://www.youtube.com/watch?v=c_QSw1go3Cc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '--cookies', 'cookies.txt', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', 'https://www.youtube.com/watch?v=c_QSw1go3Cc']' returned non-zero exit status 1.
+2025-03-03 00:24:16,120 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=c_QSw1go3Cc - コマンド: dl --skip-download --write-subs --sub-lang live_chat --cookies cookies.txt -o live_chat/%(title)s [%(id)s].%(ext)s https://www.youtube.com/watch?v=c_QSw1go3Cc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '--cookies', 'cookies.txt', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', 'https://www.youtube.com/watch?v=c_QSw1go3Cc']' returned non-zero exit status 1.
+2025-03-03 00:25:26,597 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=c_QSw1go3Cc - コマンド: dl --skip-download --write-subs --sub-lang live_chat --cookies cookies.txt -o live_chat/%(title)s [%(id)s].%(ext)s https://www.youtube.com/watch?v=c_QSw1go3Cc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '--cookies', 'cookies.txt', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', 'https://www.youtube.com/watch?v=c_QSw1go3Cc']' returned non-zero exit status 1.
+2025-03-03 00:27:58,984 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=c_QSw1go3Cc - コマンド: dl --skip-download --write-subs --sub-lang live_chat --cookies cookies.txt -o live_chat/%(title)s [%(id)s].%(ext)s https://www.youtube.com/watch?v=c_QSw1go3Cc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '--cookies', 'cookies.txt', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', 'https://www.youtube.com/watch?v=c_QSw1go3Cc']' returned non-zero exit status 1.
+2025-03-03 12:26:01,224 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-03 12:26:01,228 - ERROR - コメントが抽出できませんでした: 【CoD：WZ】新シーズンになりました！！面白いもの沢山追加されてる【ぶいすぽ⧸花芽なずな】 [Qk5ww9pT6Zk].live_chat.json
+2025-03-04 01:40:33,974 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=lSvLABLEhO0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s https://www.youtube.com/watch?v=lSvLABLEhO0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', 'https://www.youtube.com/watch?v=lSvLABLEhO0']' returned non-zero exit status 1.
+2025-03-04 11:34:41,091 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 11:34:41,123 - ERROR - コメントが抽出できませんでした: 【7DTD】地獄のストレートで対ゾンビ【ぶいすぽ⧸一ノ瀬うるは】 [qLIe0BBz_Vs].live_chat.json
+2025-03-04 13:14:09,921 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 13:14:09,945 - ERROR - コメントが抽出できませんでした: 【APEX】久しぶりの渋ハルカスタム！ w⧸渋谷ハル&花芽すみれ【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-04 13:18:04,185 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 13:18:04,202 - ERROR - コメントが抽出できませんでした: 【APEX】弱さを知りに行くプラチナランク w⧸だるまいずごっど&なるせ【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-04 13:26:29,584 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 13:26:29,595 - ERROR - コメントが抽出できませんでした: 【APEX】本日の昼(？)活 w⧸小森めと&ありさか【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-04 13:26:29,827 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 13:26:29,833 - ERROR - コメントが抽出できませんでした: 【APEX】本日の昼活ランクです w⧸常闇トワ&花芽すみれ【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-04 13:27:01,106 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 13:27:01,117 - ERROR - コメントが抽出できませんでした: 【APEX】渋ハルカスタム！！ w⧸ラトナ・プティ&ウォッカ【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-04 14:19:13,466 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 14:19:13,485 - ERROR - コメントが抽出できませんでした: 【The Cycle： Frontier】🔰理解を深めたいナウ w⧸兎咲ミミ&藍沢エマ【ぶいすぽ⧸ 一ノ瀬うるは】.json
+2025-03-04 15:04:57,304 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 15:04:57,329 - ERROR - コメントが抽出できませんでした: 【モンハンサンブレイク】後輩と狩りに出かけゆ～ w⧸空澄セナ&猫汰つな【ぶいすぽ⧸一ノ瀬うるは】.json
+2025-03-04 17:54:21,567 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=lSvLABLEhO0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s https://www.youtube.com/watch?v=lSvLABLEhO0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', 'https://www.youtube.com/watch?v=lSvLABLEhO0']' returned non-zero exit status 1.
+2025-03-04 21:00:56,627 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 21:00:56,631 - ERROR - コメントが抽出できませんでした: #01【Stardew Valley】牧場生活のはじまり【VTuber】 [iR1D_nhHmZY].live_chat.json
+2025-03-04 21:34:21,529 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 21:34:21,542 - ERROR - コメントが抽出できませんでした: 【APEX】ウィングマンになる【VTuber】 [WCI1GmMFViw].live_chat.json
+2025-03-04 21:34:52,774 - ERROR - 予期しないエラーが発生しました: invalid literal for int() with base 10: '442,472'
+2025-03-04 21:38:08,419 - ERROR - 予期しないエラーが発生しました: invalid literal for int() with base 10: '440,581'
+2025-03-04 21:51:52,798 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 21:51:52,817 - ERROR - コメントが抽出できませんでした: 【APEX】突発白ノ夜【LVG ⧸ 一ノ瀬うるは】 [JqWCx8GJyks].live_chat.json
+2025-03-04 22:04:22,652 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 22:04:22,655 - ERROR - コメントが抽出できませんでした: 【PUBG】戦いはAスクリムにて【VTuber】 [GB6QvLHqtfk].live_chat.json
+2025-03-04 22:08:14,112 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 22:08:14,118 - ERROR - コメントが抽出できませんでした: 【Vtuber】雑談とましゅまろ【うるらじ】 [2XWDs19pimQ].live_chat.json
+2025-03-04 22:08:14,228 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 22:08:14,230 - ERROR - コメントが抽出できませんでした: 【VTuber】雑談とましゅまろ【うるらじ】 [5PN8vI9eM0o].live_chat.json
+2025-03-04 22:08:14,336 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-04 22:08:14,339 - ERROR - コメントが抽出できませんでした: 【Vtuber】雑談とましゅまろ【うるらじ】 [rcPC0StWhYs].live_chat.json
+2025-03-04 22:13:14,928 - ERROR - 予期しないエラーが発生しました: invalid literal for int() with base 10: '441,278'
+2025-03-04 22:19:22,015 - ERROR - 予期しないエラーが発生しました: invalid literal for int() with base 10: '442,022'
+2025-03-05 11:59:20,340 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=qYOAHWm86nY - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=qYOAHWm86nY - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=qYOAHWm86nY']' returned non-zero exit status 1.
+2025-03-05 11:59:26,009 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=-sg2q4v4WDk - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=-sg2q4v4WDk - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=-sg2q4v4WDk']' returned non-zero exit status 1.
+2025-03-05 11:59:31,385 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=kTLp0ujdXrk - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=kTLp0ujdXrk - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=kTLp0ujdXrk']' returned non-zero exit status 1.
+2025-03-05 11:59:36,862 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=JwUj9D5JRzA - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=JwUj9D5JRzA - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=JwUj9D5JRzA']' returned non-zero exit status 1.
+2025-03-05 11:59:41,993 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=JIivv84RJsg - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=JIivv84RJsg - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=JIivv84RJsg']' returned non-zero exit status 1.
+2025-03-05 11:59:47,396 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=m6xt6-_Yu1U - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=m6xt6-_Yu1U - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=m6xt6-_Yu1U']' returned non-zero exit status 1.
+2025-03-05 11:59:52,666 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=mBZvhdu0vho - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=mBZvhdu0vho - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=mBZvhdu0vho']' returned non-zero exit status 1.
+2025-03-05 11:59:57,862 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=27mFE9U1AIE - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=27mFE9U1AIE - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=27mFE9U1AIE']' returned non-zero exit status 1.
+2025-03-05 12:00:08,217 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=glij7hTZml0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=glij7hTZml0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=glij7hTZml0']' returned non-zero exit status 1.
+2025-03-05 12:00:15,181 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=LYKENGFpJ6o - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=LYKENGFpJ6o - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=LYKENGFpJ6o']' returned non-zero exit status 1.
+2025-03-05 12:00:21,980 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=6cqv4HGZnvY - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=6cqv4HGZnvY - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=6cqv4HGZnvY']' returned non-zero exit status 1.
+2025-03-05 12:00:29,027 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=JbUgt-QW8pU - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=JbUgt-QW8pU - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=JbUgt-QW8pU']' returned non-zero exit status 1.
+2025-03-05 12:00:36,406 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=ww_411aR3tQ - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=ww_411aR3tQ - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=ww_411aR3tQ']' returned non-zero exit status 1.
+2025-03-05 12:00:42,718 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=d5JGzGbkPn4 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=d5JGzGbkPn4 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=d5JGzGbkPn4']' returned non-zero exit status 1.
+2025-03-05 12:00:49,359 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=CoeaT3yh9EI - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=CoeaT3yh9EI - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=CoeaT3yh9EI']' returned non-zero exit status 1.
+2025-03-05 12:00:59,450 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=OSwbqFChVXc - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=OSwbqFChVXc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=OSwbqFChVXc']' returned non-zero exit status 1.
+2025-03-05 12:01:06,906 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=3C9ylIMWHbs - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=3C9ylIMWHbs - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=3C9ylIMWHbs']' returned non-zero exit status 1.
+2025-03-05 12:01:13,851 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=8wwM_SnI9to - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=8wwM_SnI9to - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=8wwM_SnI9to']' returned non-zero exit status 1.
+2025-03-05 12:01:20,380 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=-FUBhE4u-K0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=-FUBhE4u-K0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=-FUBhE4u-K0']' returned non-zero exit status 1.
+2025-03-05 12:01:25,849 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=83onI9AP8ZI - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=83onI9AP8ZI - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=83onI9AP8ZI']' returned non-zero exit status 1.
+2025-03-05 12:01:31,311 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=bQUglQd4Qj4 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=bQUglQd4Qj4 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=bQUglQd4Qj4']' returned non-zero exit status 1.
+2025-03-05 12:01:37,020 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=db-uBFcwi7c - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=db-uBFcwi7c - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=db-uBFcwi7c']' returned non-zero exit status 1.
+2025-03-05 12:01:42,770 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=H_crTLGXqJo - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=H_crTLGXqJo - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=H_crTLGXqJo']' returned non-zero exit status 1.
+2025-03-05 12:01:48,127 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=mFN2kXQB01c - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=mFN2kXQB01c - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=mFN2kXQB01c']' returned non-zero exit status 1.
+2025-03-05 12:01:53,286 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=-dTCi6R7x9Q - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=-dTCi6R7x9Q - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=-dTCi6R7x9Q']' returned non-zero exit status 1.
+2025-03-05 12:01:58,516 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=R8eMl4GD9K0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=R8eMl4GD9K0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=R8eMl4GD9K0']' returned non-zero exit status 1.
+2025-03-05 12:02:03,646 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=zie6hu_g-7g - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=zie6hu_g-7g - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=zie6hu_g-7g']' returned non-zero exit status 1.
+2025-03-05 12:02:09,082 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=SVLVeniCcas - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=SVLVeniCcas - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=SVLVeniCcas']' returned non-zero exit status 1.
+2025-03-05 12:02:14,116 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=1moexXZIFck - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=1moexXZIFck - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=1moexXZIFck']' returned non-zero exit status 1.
+2025-03-05 12:02:19,215 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=hZ7YRaPF_Ds - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=hZ7YRaPF_Ds - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=hZ7YRaPF_Ds']' returned non-zero exit status 1.
+2025-03-05 12:02:24,271 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=0zl0izo82cI - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=0zl0izo82cI - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=0zl0izo82cI']' returned non-zero exit status 1.
+2025-03-05 12:02:29,603 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=HjvQ5T1xEGo - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=HjvQ5T1xEGo - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=HjvQ5T1xEGo']' returned non-zero exit status 1.
+2025-03-05 12:02:34,880 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=upcwwx6A_z0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=upcwwx6A_z0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=upcwwx6A_z0']' returned non-zero exit status 1.
+2025-03-05 12:02:40,055 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=guvl2BF869I - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=guvl2BF869I - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=guvl2BF869I']' returned non-zero exit status 1.
+2025-03-05 12:02:45,049 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=LidSFtlafK0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=LidSFtlafK0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=LidSFtlafK0']' returned non-zero exit status 1.
+2025-03-05 12:02:50,308 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=hhwnEuO1UEU - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=hhwnEuO1UEU - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=hhwnEuO1UEU']' returned non-zero exit status 1.
+2025-03-05 12:02:55,338 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=6eyc5QtNBcI - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=6eyc5QtNBcI - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=6eyc5QtNBcI']' returned non-zero exit status 1.
+2025-03-05 12:03:00,391 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=tQ-fcAh4N6g - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=tQ-fcAh4N6g - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=tQ-fcAh4N6g']' returned non-zero exit status 1.
+2025-03-05 12:03:05,411 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=XhsRimIAVOg - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=XhsRimIAVOg - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=XhsRimIAVOg']' returned non-zero exit status 1.
+2025-03-05 12:03:10,560 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=ch8T77BlDJc - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=ch8T77BlDJc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=ch8T77BlDJc']' returned non-zero exit status 1.
+2025-03-05 12:03:15,898 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=QFbk8ireoE8 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=QFbk8ireoE8 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=QFbk8ireoE8']' returned non-zero exit status 1.
+2025-03-05 12:03:21,057 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=40moO3hGmpE - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=40moO3hGmpE - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=40moO3hGmpE']' returned non-zero exit status 1.
+2025-03-05 12:03:26,181 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=b2KADtKI1_o - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=b2KADtKI1_o - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=b2KADtKI1_o']' returned non-zero exit status 1.
+2025-03-05 12:03:31,196 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=bm4wiNI4bzQ - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=bm4wiNI4bzQ - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=bm4wiNI4bzQ']' returned non-zero exit status 1.
+2025-03-05 12:03:36,236 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=kpJ-SZjWpbc - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=kpJ-SZjWpbc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=kpJ-SZjWpbc']' returned non-zero exit status 1.
+2025-03-05 12:03:41,278 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=sK8KWrIRycs - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=sK8KWrIRycs - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=sK8KWrIRycs']' returned non-zero exit status 1.
+2025-03-05 12:03:46,477 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=gKqfKm9JgT0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=gKqfKm9JgT0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=gKqfKm9JgT0']' returned non-zero exit status 1.
+2025-03-05 12:03:51,799 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=s4iNGtclESs - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=s4iNGtclESs - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=s4iNGtclESs']' returned non-zero exit status 1.
+2025-03-05 12:03:56,955 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=BwA2A4jkAz0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=BwA2A4jkAz0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=BwA2A4jkAz0']' returned non-zero exit status 1.
+2025-03-05 12:04:02,213 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=ys5ULxt4ZT4 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=ys5ULxt4ZT4 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=ys5ULxt4ZT4']' returned non-zero exit status 1.
+2025-03-05 12:04:07,933 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=UbAgyIuDx-U - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=UbAgyIuDx-U - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=UbAgyIuDx-U']' returned non-zero exit status 1.
+2025-03-05 12:04:13,004 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=KkU7y9BGm4A - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=KkU7y9BGm4A - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=KkU7y9BGm4A']' returned non-zero exit status 1.
+2025-03-05 12:04:18,383 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=SRn6hAv0yKQ - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=SRn6hAv0yKQ - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=SRn6hAv0yKQ']' returned non-zero exit status 1.
+2025-03-05 12:04:23,570 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=L_X0mNzcwvc - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=L_X0mNzcwvc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=L_X0mNzcwvc']' returned non-zero exit status 1.
+2025-03-05 12:04:28,641 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=wyAFB2FG3vk - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=wyAFB2FG3vk - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=wyAFB2FG3vk']' returned non-zero exit status 1.
+2025-03-05 12:04:33,682 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=5lsv2FulVk0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=5lsv2FulVk0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=5lsv2FulVk0']' returned non-zero exit status 1.
+2025-03-05 12:04:38,833 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=lxjVRx1JzzE - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=lxjVRx1JzzE - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=lxjVRx1JzzE']' returned non-zero exit status 1.
+2025-03-05 12:04:44,177 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=BbLrIvsxCm4 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=BbLrIvsxCm4 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=BbLrIvsxCm4']' returned non-zero exit status 1.
+2025-03-05 12:04:49,383 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=oN1UQV2hLyU - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=oN1UQV2hLyU - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=oN1UQV2hLyU']' returned non-zero exit status 1.
+2025-03-05 12:04:54,387 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=nsXSIAPrOOU - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=nsXSIAPrOOU - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=nsXSIAPrOOU']' returned non-zero exit status 1.
+2025-03-05 12:04:59,291 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=a0eLHTFU11w - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=a0eLHTFU11w - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=a0eLHTFU11w']' returned non-zero exit status 1.
+2025-03-05 12:05:04,670 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=TIsp1j0X3sU - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=TIsp1j0X3sU - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=TIsp1j0X3sU']' returned non-zero exit status 1.
+2025-03-05 12:05:09,771 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=jY1_QsabjXk - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=jY1_QsabjXk - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=jY1_QsabjXk']' returned non-zero exit status 1.
+2025-03-05 12:05:15,007 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=DvHE8L9Tdco - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=DvHE8L9Tdco - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=DvHE8L9Tdco']' returned non-zero exit status 1.
+2025-03-05 12:05:20,016 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=DKHYd2oKGSY - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=DKHYd2oKGSY - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=DKHYd2oKGSY']' returned non-zero exit status 1.
+2025-03-05 12:05:24,982 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=FBgpSnPBxbs - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=FBgpSnPBxbs - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=FBgpSnPBxbs']' returned non-zero exit status 1.
+2025-03-05 12:05:29,795 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=A6E7ve6eKVs - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=A6E7ve6eKVs - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=A6E7ve6eKVs']' returned non-zero exit status 1.
+2025-03-05 12:06:13,017 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=0vHOK33_sC4 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=0vHOK33_sC4 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=0vHOK33_sC4']' returned non-zero exit status 1.
+2025-03-05 12:06:18,735 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=kZLxu_WwmhQ - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=kZLxu_WwmhQ - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=kZLxu_WwmhQ']' returned non-zero exit status 1.
+2025-03-05 12:20:23,324 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=mFN2kXQB01c - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=mFN2kXQB01c - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=mFN2kXQB01c']' returned non-zero exit status 1.
+2025-03-05 12:20:29,656 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=-dTCi6R7x9Q - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=-dTCi6R7x9Q - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=-dTCi6R7x9Q']' returned non-zero exit status 1.
+2025-03-05 12:20:37,776 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=R8eMl4GD9K0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=R8eMl4GD9K0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=R8eMl4GD9K0']' returned non-zero exit status 1.
+2025-03-05 12:20:44,603 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=zie6hu_g-7g - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=zie6hu_g-7g - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=zie6hu_g-7g']' returned non-zero exit status 1.
+2025-03-05 12:20:52,279 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=SVLVeniCcas - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=SVLVeniCcas - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=SVLVeniCcas']' returned non-zero exit status 1.
+2025-03-05 12:41:45,344 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=exfBTwE4pG0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=exfBTwE4pG0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=exfBTwE4pG0']' returned non-zero exit status 1.
+2025-03-05 12:41:55,615 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=l_ASbW67kyU - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=l_ASbW67kyU - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=l_ASbW67kyU']' returned non-zero exit status 1.
+2025-03-05 12:42:01,949 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=U7cPusWTE3M - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=U7cPusWTE3M - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=U7cPusWTE3M']' returned non-zero exit status 1.
+2025-03-05 12:42:09,086 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=AUCeJ-qrGps - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=AUCeJ-qrGps - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=AUCeJ-qrGps']' returned non-zero exit status 1.
+2025-03-05 12:42:14,650 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=_eGZvRybyHg - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=_eGZvRybyHg - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=_eGZvRybyHg']' returned non-zero exit status 1.
+2025-03-05 12:42:19,849 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=ov3le5B5EOw - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=ov3le5B5EOw - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=ov3le5B5EOw']' returned non-zero exit status 1.
+2025-03-05 12:42:25,982 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=IYbpn4mT8uM - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=IYbpn4mT8uM - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=IYbpn4mT8uM']' returned non-zero exit status 1.
+2025-03-05 12:42:31,294 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=-N-Jbpb-rTs - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=-N-Jbpb-rTs - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=-N-Jbpb-rTs']' returned non-zero exit status 1.
+2025-03-05 12:42:36,525 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=djbOE1NRcxc - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=djbOE1NRcxc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=djbOE1NRcxc']' returned non-zero exit status 1.
+2025-03-05 12:44:00,736 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:00,738 - ERROR - コメントが抽出できませんでした: WWWWWWWWWW.json
+2025-03-05 12:44:00,835 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:00,836 - ERROR - コメントが抽出できませんでした: 【 #APEX 】姉妹でランク修行するのだ【VTuber】.json
+2025-03-05 12:44:00,911 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:00,912 - ERROR - コメントが抽出できませんでした: 【 #APEX 】平日の深夜に救済を【VTuber】.json
+2025-03-05 12:44:00,962 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:00,964 - ERROR - コメントが抽出できませんでした: 【 APEX 】【VTuber】.json
+2025-03-05 12:44:01,017 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:01,018 - ERROR - コメントが抽出できませんでした: 【 APEX 】お友達とカジュアル回します【VTuber】.json
+2025-03-05 12:44:01,153 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:01,201 - ERROR - コメントが抽出できませんでした: 【 APEX 】イベントモードが来てるらしい【VTuber】.json
+2025-03-05 12:44:01,337 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:01,352 - ERROR - コメントが抽出できませんでした: 【 APEX 】ウィングマン外す気がしない【VTuber】.json
+2025-03-05 12:44:01,425 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:01,440 - ERROR - コメントが抽出できませんでした: 【 APEX 】ランクポイントよ溶けないで【VTuber】.json
+2025-03-05 12:44:01,548 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:01,566 - ERROR - コメントが抽出できませんでした: 【 APEX 】深夜のコソ練習【VTuber】.json
+2025-03-05 12:44:01,678 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:01,685 - ERROR - コメントが抽出できませんでした: 【 COD：warzone 】やっちゃおっか～【VTuber】.json
+2025-03-05 12:44:01,753 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:01,766 - ERROR - コメントが抽出できませんでした: 【 COD：warzone 】フルパ女子でGO【VTuber】.json
+2025-03-05 12:44:01,823 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:01,838 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】あぺっくすGG【VTuber】.json
+2025-03-05 12:44:02,016 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:02,029 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】うおおおおおおおお【VTuber】.json
+2025-03-05 12:44:02,208 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:02,222 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】ほげえぇええ～【VTuber】.json
+2025-03-05 12:44:02,670 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:02,674 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】ゲリラでゴリラ.json
+2025-03-05 12:44:02,781 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:02,785 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】今日はなんか弾たる気がするよ【VTuber】.json
+2025-03-05 12:44:02,868 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:02,872 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】昼のソロ修行【VTuber】.json
+2025-03-05 12:44:02,983 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:02,995 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】昼のソロ修行ォ.json
+2025-03-05 12:44:03,087 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:03,092 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】正午のソロ修行【VTuber】.json
+2025-03-05 12:44:03,117 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:03,126 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】頑張る【VTuber】.json
+2025-03-05 12:44:03,179 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:03,183 - ERROR - コメントが抽出できませんでした: 【APEX⧸Vtuber】GGでランク回すよ【LVG ⧸ 花芽すみれ】.json
+2025-03-05 12:44:03,231 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:03,235 - ERROR - コメントが抽出できませんでした: 【APEX】#VTuber疑似カスタム【VTuber】.json
+2025-03-05 12:44:03,282 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:03,291 - ERROR - コメントが抽出できませんでした: 【APEX】KPKP【VTuber】.json
+2025-03-05 12:44:03,389 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:03,393 - ERROR - コメントが抽出できませんでした: 【APEX】おはようソロランク（プラチナ帯）【VTuber】.json
+2025-03-05 12:44:03,543 - ERROR - 予期しないエラーが発生しました: 'Title'
+2025-03-05 12:44:03,547 - ERROR - コメントが抽出できませんでした: 【APEX】かつもくせよ、これがダイヤや【VTuber】.json
+2025-03-05 12:45:08,120 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,124 - ERROR - コメントが抽出できませんでした: WWWWWWWWWW.json
+2025-03-05 12:45:08,149 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,150 - ERROR - コメントが抽出できませんでした: 【 #APEX 】姉妹でランク修行するのだ【VTuber】.json
+2025-03-05 12:45:08,195 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,197 - ERROR - コメントが抽出できませんでした: 【 #APEX 】平日の深夜に救済を【VTuber】.json
+2025-03-05 12:45:08,226 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,227 - ERROR - コメントが抽出できませんでした: 【 APEX 】【VTuber】.json
+2025-03-05 12:45:08,248 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,249 - ERROR - コメントが抽出できませんでした: 【 APEX 】お友達とカジュアル回します【VTuber】.json
+2025-03-05 12:45:08,272 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,275 - ERROR - コメントが抽出できませんでした: 【 APEX 】イベントモードが来てるらしい【VTuber】.json
+2025-03-05 12:45:08,290 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,291 - ERROR - コメントが抽出できませんでした: 【 APEX 】ウィングマン外す気がしない【VTuber】.json
+2025-03-05 12:45:08,330 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,331 - ERROR - コメントが抽出できませんでした: 【 APEX 】ランクポイントよ溶けないで【VTuber】.json
+2025-03-05 12:45:08,383 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,384 - ERROR - コメントが抽出できませんでした: 【 APEX 】深夜のコソ練習【VTuber】.json
+2025-03-05 12:45:08,444 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,449 - ERROR - コメントが抽出できませんでした: 【 COD：warzone 】やっちゃおっか～【VTuber】.json
+2025-03-05 12:45:08,473 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,474 - ERROR - コメントが抽出できませんでした: 【 COD：warzone 】フルパ女子でGO【VTuber】.json
+2025-03-05 12:45:08,511 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,513 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】あぺっくすGG【VTuber】.json
+2025-03-05 12:45:08,545 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,546 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】うおおおおおおおお【VTuber】.json
+2025-03-05 12:45:08,596 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,598 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】ほげえぇええ～【VTuber】.json
+2025-03-05 12:45:08,643 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,645 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】ゲリラでゴリラ.json
+2025-03-05 12:45:08,689 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,692 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】今日はなんか弾たる気がするよ【VTuber】.json
+2025-03-05 12:45:08,744 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,749 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】昼のソロ修行【VTuber】.json
+2025-03-05 12:45:08,845 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,852 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】昼のソロ修行ォ.json
+2025-03-05 12:45:08,917 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,920 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】正午のソロ修行【VTuber】.json
+2025-03-05 12:45:08,934 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,937 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】頑張る【VTuber】.json
+2025-03-05 12:45:08,980 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:08,982 - ERROR - コメントが抽出できませんでした: 【APEX⧸Vtuber】GGでランク回すよ【LVG ⧸ 花芽すみれ】.json
+2025-03-05 12:45:09,019 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:09,021 - ERROR - コメントが抽出できませんでした: 【APEX】#VTuber疑似カスタム【VTuber】.json
+2025-03-05 12:45:09,051 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:09,052 - ERROR - コメントが抽出できませんでした: 【APEX】KPKP【VTuber】.json
+2025-03-05 12:45:09,105 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:09,108 - ERROR - コメントが抽出できませんでした: 【APEX】おはようソロランク（プラチナ帯）【VTuber】.json
+2025-03-05 12:45:09,173 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:09,175 - ERROR - コメントが抽出できませんでした: 【APEX】かつもくせよ、これがダイヤや【VTuber】.json
+2025-03-05 12:45:09,291 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:09,297 - ERROR - コメントが抽出できませんでした: 【APEX】ちりつもなプラチナ（ソロランク）【花芽すみれ⧸LVG】.json
+2025-03-05 12:45:09,336 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:09,338 - ERROR - コメントが抽出できませんでした: 【APEX】なずなさんと一ノ瀬さんとランク【花芽すみれ⧸LVG】.json
+2025-03-05 12:45:09,399 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:09,403 - ERROR - コメントが抽出できませんでした: 【APEX】のんだら当たらん【VTuber】.json
+2025-03-05 12:45:09,448 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:09,450 - ERROR - コメントが抽出できませんでした: 【APEX】は～あ、ソロランクの女（ダイヤ）【LVG ⧸ 花芽すみれ】.json
+2025-03-05 12:45:09,511 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:09,511 - ERROR - コメントが抽出できませんでした: 【Apex】めうくまと戦います.json
+2025-03-05 12:45:09,579 - ERROR - 予期しないエラーが発生しました: 'URL'
+2025-03-05 12:45:09,583 - ERROR - コメントが抽出できませんでした: 【APEX】ららららんく【花芽すみれ⧸LVG】.json
+2025-03-05 13:11:32,517 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=oj3Tb9lJwgc - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=oj3Tb9lJwgc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=oj3Tb9lJwgc']' returned non-zero exit status 1.
+2025-03-05 13:11:40,116 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=vDbGacABz5I - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=vDbGacABz5I - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=vDbGacABz5I']' returned non-zero exit status 1.
+2025-03-05 13:11:46,898 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=IJ2GYID21nI - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=IJ2GYID21nI - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=IJ2GYID21nI']' returned non-zero exit status 1.
+2025-03-05 13:11:53,632 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=FkhivbUJ3_A - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=FkhivbUJ3_A - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=FkhivbUJ3_A']' returned non-zero exit status 1.
+2025-03-05 13:12:00,902 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=EN-R4N7zMrM - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=EN-R4N7zMrM - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=EN-R4N7zMrM']' returned non-zero exit status 1.
+2025-03-05 13:12:07,441 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=Vrj0hsYoeGQ - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=Vrj0hsYoeGQ - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=Vrj0hsYoeGQ']' returned non-zero exit status 1.
+2025-03-05 13:12:17,521 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=UFJlQQ6kwXo - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=UFJlQQ6kwXo - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=UFJlQQ6kwXo']' returned non-zero exit status 1.
+2025-03-05 13:12:25,507 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=Ncl73URzmJ0 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=Ncl73URzmJ0 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=Ncl73URzmJ0']' returned non-zero exit status 1.
+2025-03-05 13:12:36,533 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=9QAVNm_POq8 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=9QAVNm_POq8 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=9QAVNm_POq8']' returned non-zero exit status 1.
+2025-03-05 13:12:51,893 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=K6qfZi_2beU - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=K6qfZi_2beU - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=K6qfZi_2beU']' returned non-zero exit status 1.
+2025-03-05 13:32:21,618 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=GcMVmgO2nSQ - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=GcMVmgO2nSQ - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=GcMVmgO2nSQ']' returned non-zero exit status 1.
+2025-03-05 13:52:32,103 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=vAoqC_ANZbc - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=vAoqC_ANZbc - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=vAoqC_ANZbc']' returned non-zero exit status 1.
+2025-03-05 13:52:43,015 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=IfFU-wDSVho - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=IfFU-wDSVho - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=IfFU-wDSVho']' returned non-zero exit status 1.
+2025-03-05 13:53:09,203 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=Gvoaaks3Xzg - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=Gvoaaks3Xzg - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=Gvoaaks3Xzg']' returned non-zero exit status 1.
+2025-03-05 13:53:32,354 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=TXDq1v3k_yA - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=TXDq1v3k_yA - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=TXDq1v3k_yA']' returned non-zero exit status 1.
+2025-03-05 13:53:45,800 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=dJGl1qPu7Lo - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=dJGl1qPu7Lo - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=dJGl1qPu7Lo']' returned non-zero exit status 1.
+2025-03-05 13:53:52,603 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=bMqP5yyAZ58 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=bMqP5yyAZ58 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=bMqP5yyAZ58']' returned non-zero exit status 1.
+2025-03-05 13:53:59,649 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=-Mnb5IX7q0k - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=-Mnb5IX7q0k - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=-Mnb5IX7q0k']' returned non-zero exit status 1.
+2025-03-05 14:15:41,237 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=4HKGZzQZw2o - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=4HKGZzQZw2o - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=4HKGZzQZw2o']' returned non-zero exit status 1.
+2025-03-05 14:15:46,795 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=WQBbQHLB4R4 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=WQBbQHLB4R4 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=WQBbQHLB4R4']' returned non-zero exit status 1.
+2025-03-05 14:15:52,416 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=4azmdJn0mHk - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=4azmdJn0mHk - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=4azmdJn0mHk']' returned non-zero exit status 1.
+2025-03-05 14:15:58,974 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=wFP3ZK1fHdM - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=wFP3ZK1fHdM - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=wFP3ZK1fHdM']' returned non-zero exit status 1.
+2025-03-05 14:16:04,655 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=5of0evXbvPI - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=5of0evXbvPI - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=5of0evXbvPI']' returned non-zero exit status 1.
+2025-03-05 14:16:10,802 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=wGB-Ec1oFvs - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=wGB-Ec1oFvs - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=wGB-Ec1oFvs']' returned non-zero exit status 1.
+2025-03-05 14:16:19,206 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=24dabPymZ1U - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=24dabPymZ1U - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=24dabPymZ1U']' returned non-zero exit status 1.
+2025-03-05 14:16:33,082 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=K4TstkWy5hI - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=K4TstkWy5hI - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=K4TstkWy5hI']' returned non-zero exit status 1.
+2025-03-05 14:28:02,338 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-05 14:28:02,343 - ERROR - コメントが抽出できませんでした: a [PNAg95J0mRs].live_chat.json
+2025-03-05 14:37:54,145 - ERROR - 予期しないエラーが発生しました: invalid literal for int() with base 10: '445,045' 秒でお話し
+2025-03-10 05:05:16,942 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=JkuHbeoqu64 - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=JkuHbeoqu64 - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=JkuHbeoqu64']' returned non-zero exit status 1.
+2025-03-10 11:49:29,643 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 11:49:29,650 - ERROR - コメントが抽出できませんでした: 2020年最後の配信 今年もありがと～.json
+2025-03-10 11:49:29,827 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 11:49:29,831 - ERROR - コメントが抽出できませんでした: a [PNAg95J0mRs].live_chat.json
+2025-03-10 11:50:01,633 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 11:50:01,658 - ERROR - コメントが抽出できませんでした: APEX ｜ CRcupれんしう【ぶいすぽ⧸花芽すみれ】.json
+2025-03-10 11:50:02,178 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 11:50:02,191 - ERROR - コメントが抽出できませんでした: APEX ｜ 久々に少々【 ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 11:50:02,321 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 11:50:02,325 - ERROR - コメントが抽出できませんでした: APEX｜Xmas🎄カスタム【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 11:50:02,490 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 11:50:02,493 - ERROR - コメントが抽出できませんでした: APEX｜ソロ練習【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 11:50:02,636 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 11:50:02,659 - ERROR - コメントが抽出できませんでした: APEX｜後輩とまたーりやるでよ【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 11:50:55,437 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 11:50:55,444 - ERROR - コメントが抽出できませんでした: IQ3チーム練習 w⧸ドンピシャさん ゆふなさん.json
+2025-03-10 11:51:03,548 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 11:51:03,581 - ERROR - コメントが抽出できませんでした: the stanley parable#1【LVG ⧸ 花芽すみれ】.json
+2025-03-10 11:51:04,318 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 11:51:04,521 - ERROR - コメントが抽出できませんでした: yo~.json
+2025-03-10 12:20:07,541 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 12:20:07,770 - ERROR - コメントが抽出できませんでした: 【 supermarket simulator 】人生について語りながら店長【空澄セナ⧸ぶいすぽっ！】 [7jY6VnuxUg8].live_chat.json
+2025-03-10 13:23:58,397 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:23:58,405 - ERROR - コメントが抽出できませんでした: 【Among Us】すみれ選手による宇宙人狼 #２【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:23:58,758 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:23:58,764 - ERROR - コメントが抽出できませんでした: 【Among Us】ひさびさ【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 13:23:58,995 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:23:58,999 - ERROR - コメントが抽出できませんでした: 【Among Us】ゲリラマング 【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:23:59,346 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:23:59,365 - ERROR - コメントが抽出できませんでした: 【AmongUs】お疲れ様でした まったり2次会あもあす【 ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 13:28:07,306 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:28:07,320 - ERROR - コメントが抽出できませんでした: 【Apex Legends】rank~~ w ⧸ ボドカ ありえる.json
+2025-03-10 13:30:23,079 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:30:23,084 - ERROR - コメントが抽出できませんでした: 【Apex Legends】えぺまつりカスタモ w⧸ 伊織もえ やふへゐ先生 【 ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 13:33:03,457 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:33:03,472 - ERROR - コメントが抽出できませんでした: 【Apex Legends】よいしょ～ダイヤランク💎.json
+2025-03-10 13:45:26,311 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:45:26,320 - ERROR - コメントが抽出できませんでした: 【APEX】 やっぱり私らGGがチャンピョン【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:45:26,735 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:45:26,746 - ERROR - コメントが抽出できませんでした: 【APEX】 ダイヤ目指そ～【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:45:27,207 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:45:27,227 - ERROR - コメントが抽出できませんでした: 【APEX】#とーますGO カスタム行くでやぁ～ 【花芽すみれ⧸夏色まつり⧸常闇トワ】.json
+2025-03-10 13:46:14,960 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:14,968 - ERROR - コメントが抽出できませんでした: 【APEX】mata~ri rank go w⧸ akito dexyuku.json
+2025-03-10 13:46:15,606 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:15,616 - ERROR - コメントが抽出できませんでした: 【APEX】solo rank dia...【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:16,160 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:16,165 - ERROR - コメントが抽出できませんでした: 【APEX】solo rank dia💎【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:16,536 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:16,541 - ERROR - コメントが抽出できませんでした: 【APEX】withあどみんさんカワセさん【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:16,857 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:16,862 - ERROR - コメントが抽出できませんでした: 【APEX】あんこちゃんを連れてきました！！！【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:17,454 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:17,464 - ERROR - コメントが抽出できませんでした: 【APEX】いっぱいキルしたいカジュのぶん回し【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:17,841 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:17,846 - ERROR - コメントが抽出できませんでした: 【APEX】うあああああ後輩がデキました【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:18,169 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:18,203 - ERROR - コメントが抽出できませんでした: 【APEX】おいす～～！！！！【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:18,685 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:18,707 - ERROR - コメントが抽出できませんでした: 【APEX】さくらさんとVCCカスタム【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 13:46:19,212 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:19,226 - ERROR - コメントが抽出できませんでした: 【APEX】つっよいハンマーが欲しいよね～！！！【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:20,007 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:20,088 - ERROR - コメントが抽出できませんでした: 【APEX】ねむすンぎ【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:28,407 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:28,419 - ERROR - コメントが抽出できませんでした: 【APEX】まったりカジュえっじ【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:28,896 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:28,907 - ERROR - コメントが抽出できませんでした: 【APEX】めんげん【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 13:46:29,370 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:29,377 - ERROR - コメントが抽出できませんでした: 【APEX】やることありすぎて一周回ってAPEX【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:29,754 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:29,903 - ERROR - コメントが抽出できませんでした: 【APEX】らんちゃとえいむくんと【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:30,366 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:30,376 - ERROR - コメントが抽出できませんでした: 【APEX】わたしは昨日６００pt溶かした女です【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:31,106 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:31,128 - ERROR - コメントが抽出できませんでした: 【APEX】アプデきたやるよ～【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:31,619 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:31,621 - ERROR - コメントが抽出できませんでした: 【APEX】カジュ⧸ランク回すよ！【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:31,906 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:31,915 - ERROR - コメントが抽出できませんでした: 【APEX】カジュアルぶん回す！！【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:32,384 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:32,403 - ERROR - コメントが抽出できませんでした: 【APEX】ソロランク修行プラチナの巻【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:32,891 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:32,919 - ERROR - コメントが抽出できませんでした: 【APEX】ソロ修行カービン丸【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:33,352 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:33,363 - ERROR - コメントが抽出できませんでした: 【APEX】ソロ修行マスティフ侍【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:33,767 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:33,789 - ERROR - コメントが抽出できませんでした: 【APEX】ダイヤ４の魔境（ソロランク）【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:34,430 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:34,442 - ERROR - コメントが抽出できませんでした: 【APEX】ティフマス使いおれ【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:34,843 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:34,846 - ERROR - コメントが抽出できませんでした: 【APEX】マジで強い人達とカジュアル行く【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:35,128 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:35,146 - ERROR - コメントが抽出できませんでした: 【APEX】ランク行ったりカジュったり【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:35,503 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:35,519 - ERROR - コメントが抽出できませんでした: 【APEX】一ノ瀬ときゅぴでカジュり！【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:36,037 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:36,049 - ERROR - コメントが抽出できませんでした: 【APEX】久々にソロランクやるわょ【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:36,353 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:36,362 - ERROR - コメントが抽出できませんでした: 【APEX】予定は未定【ぶいすぽ⧸花芽すみれ】.json
+2025-03-10 13:46:36,714 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:36,716 - ERROR - コメントが抽出できませんでした: 【APEX】俺たちぶるーあいず【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:37,167 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:37,203 - ERROR - コメントが抽出できませんでした: 【APEX】公園の子供は5時のサイレンで帰宅した【花芽すみれ】.json
+2025-03-10 13:46:37,643 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:37,700 - ERROR - コメントが抽出できませんでした: 【APEX】参加型で遊ぶドン【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 13:46:38,143 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:38,149 - ERROR - コメントが抽出できませんでした: 【APEX】大会がｱﾁﾁすぎる【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:38,495 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:38,518 - ERROR - コメントが抽出できませんでした: 【APEX】大会練習 エリートスミラルタルis me【ぶいすぽ⧸花芽すみれ】.json
+2025-03-10 13:46:38,994 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:39,003 - ERROR - コメントが抽出できませんでした: 【APEX】大天使と孤高のヤンキーを連れてきました【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:39,226 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:39,231 - ERROR - コメントが抽出できませんでした: 【APEX】姫と王子と地元のヤンキー（笑）【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:39,575 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:39,584 - ERROR - コメントが抽出できませんでした: 【APEX】懐かしの私たちGG【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:39,854 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:39,911 - ERROR - コメントが抽出できませんでした: 【APEX】新アプデきちゃ～～～～～！！！【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:40,320 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:40,330 - ERROR - コメントが抽出できませんでした: 【APEX】新シーズンのランクですこんにちは！【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:40,778 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:40,782 - ERROR - コメントが抽出できませんでした: 【APEX】最協決定戦ティム練 #2【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:41,211 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:41,212 - ERROR - コメントが抽出できませんでした: 【APEX】最協決定戦ティム練【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:41,617 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:41,645 - ERROR - コメントが抽出できませんでした: 【APEX】最終日らしい… （じゃなかった）#TMSWIN【花芽すみれ⧸夏色まつり⧸常闇トワ】.json
+2025-03-10 13:46:42,048 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:42,063 - ERROR - コメントが抽出できませんでした: 【APEX】朝活ソロランクの旅（ダイヤⅢ）【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:42,657 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:42,667 - ERROR - コメントが抽出できませんでした: 【APEX】椅子がないので立ちます.json
+2025-03-10 13:46:43,621 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:43,639 - ERROR - コメントが抽出できませんでした: 【APEX】深夜にこっそりプラチナ人【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:44,132 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:44,149 - ERROR - コメントが抽出できませんでした: 【APEX】織姫と彦星に会ってくる【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:44,665 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:44,672 - ERROR - コメントが抽出できませんでした: 【APEX】行ッッッくぞ～～～～【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:45,360 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:45,370 - ERROR - コメントが抽出できませんでした: 【APEX】静かに【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:46,139 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:46,166 - ERROR - コメントが抽出できませんでした: 【APEX】非常にのんびりプレイ【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:46:46,592 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:46:46,596 - ERROR - コメントが抽出できませんでした: 【APEX】ﾖｲｼｮ～【LVG ⧸ 花芽すみれ】.json
+2025-03-10 13:51:51,079 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:51:51,095 - ERROR - コメントが抽出できませんでした: 【DON'T SCREAM】叫んだら即終了！？叫んだらね。【空澄セナ⧸ぶいすぽっ！】.json
+2025-03-10 13:59:56,363 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 13:59:56,367 - ERROR - コメントが抽出できませんでした: 【Minecraft】ねむたいけどゲームしたいそんな気分【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 14:03:57,965 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:03:57,968 - ERROR - コメントが抽出できませんでした: 【Overwatch】突発コラボ #女子会OW部【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 14:03:58,163 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:03:58,165 - ERROR - コメントが抽出できませんでした: 【OW】＂ガチヒール＂⧸ 身内紅白戦【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 14:03:58,382 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:03:58,387 - ERROR - コメントが抽出できませんでした: 【PAYDAY2】GYOEEE~【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 14:07:25,138 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:07:25,142 - ERROR - コメントが抽出できませんでした: 【PUBG】 5億年ぶりに起動する【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:07:25,294 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:07:25,297 - ERROR - コメントが抽出できませんでした: 【PUBG】あの頃を思い出して【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:07:25,487 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:07:25,488 - ERROR - コメントが抽出できませんでした: 【PUBG】やるたびに久々のゲーム【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:07:25,624 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:07:25,628 - ERROR - コメントが抽出できませんでした: 【PUBG】姉妹で朝活🍣👾💤【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:07:25,793 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:07:25,795 - ERROR - コメントが抽出できませんでした: 【PUBG】感覚を忘れたこのゲーム【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:14:51,061 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:51,067 - ERROR - コメントが抽出できませんでした: 【The Watchers】 うるすみ兄弟の脱出～絆～【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:14:51,216 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:51,222 - ERROR - コメントが抽出できませんでした: 【Ultimate Chicken Horse】みんなでワチャる【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:14:51,501 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:51,504 - ERROR - コメントが抽出できませんでした: 【VALORANT】DUOするヴぁロよ～【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 14:14:51,712 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:51,715 - ERROR - コメントが抽出できませんでした: 【VALORANT】GO~GO~【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 14:14:51,932 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:51,934 - ERROR - コメントが抽出できませんでした: 【VALORANT】トロール準備、よし #ぶいすぽ紅白 【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 14:14:52,191 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:52,193 - ERROR - コメントが抽出できませんでした: 【VALORANT】ハービンジャーすみれ #2【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:14:52,331 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:52,332 - ERROR - コメントが抽出できませんでした: 【VALORANT】ハービンジャーすみれ #4【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:14:52,504 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:52,506 - ERROR - コメントが抽出できませんでした: 【VALORANT】ハービンジャーすみれ #6【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:14:52,668 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:52,670 - ERROR - コメントが抽出できませんでした: 【VALORANT】ハービンジャーすみれ#3【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:14:52,851 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:52,864 - ERROR - コメントが抽出できませんでした: 【VALORANT】ハービンジャーすみれ【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:14:53,515 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:53,518 - ERROR - コメントが抽出できませんでした: 【VALORANT】フルパ女子でいく～！【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:14:53,722 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:14:53,730 - ERROR - コメントが抽出できませんでした: 【VALORANT】姉妹で朝ヴァロ活～！【LVG ⧸ 花芽すみれ】.json
+2025-03-10 14:15:21,840 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 14:15:21,844 - ERROR - コメントが抽出できませんでした: 【VALORANT】新作FPSに出会う【LVG ⧸ 花芽すみれ】.json
+2025-03-10 15:20:20,346 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 15:20:20,448 - ERROR - コメントが抽出できませんでした: 【フォートナイト】階段おけます【ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 15:33:36,049 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 15:33:36,058 - ERROR - コメントが抽出できませんでした: 【モンハンワールド ⧸ MHWI】ベリオロスにしばかれた日、人類は思い出した w⧸ハセシン3.𝐕𝐚𝐧𝐢𝐥𝐋𝐚3.紫宮【空澄セナ⧸ぶいすぽっ！】 [wKhNmXG9Xnw].live_chat.json
+2025-03-10 15:37:52,780 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 15:37:52,789 - ERROR - コメントが抽出できませんでした: 【モンハンワールド ⧸ MHW】1から！！ワールド固定フルパ w⧸ハセシン3.𝐕𝐚𝐧𝐢𝐥𝐋𝐚3.紫宮【空澄セナ⧸ぶいすぽっ！】 [xSEM_okTPtY].live_chat.json
+2025-03-10 15:41:02,488 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 15:41:02,607 - ERROR - コメントが抽出できませんでした: 【初めて】苦手なお歌ですが見守ってください(；；)【 ぶいすぽ ⧸ 花芽すみれ】.json
+2025-03-10 16:53:39,919 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 16:53:39,954 - ERROR - コメントが抽出できませんでした: 【 supermarket simulator 】人生について語りながら店長【空澄セナ⧸ぶいすぽっ！】 [7jY6VnuxUg8].live_chat.json
+2025-03-10 18:20:01,790 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 18:20:01,816 - ERROR - コメントが抽出できませんでした: 【DON'T SCREAM】叫んだら即終了！？叫んだらね。【空澄セナ⧸ぶいすぽっ！】.json
+2025-03-10 19:46:05,323 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 19:46:05,346 - ERROR - コメントが抽出できませんでした: 【モンハンワールド ⧸ MHWI】ベリオロスにしばかれた日、人類は思い出した w⧸ハセシン3.𝐕𝐚𝐧𝐢𝐥𝐋𝐚3.紫宮【空澄セナ⧸ぶいすぽっ！】 [wKhNmXG9Xnw].live_chat.json
+2025-03-10 19:50:21,112 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-03-10 19:50:21,126 - ERROR - コメントが抽出できませんでした: 【モンハンワールド ⧸ MHW】1から！！ワールド固定フルパ w⧸ハセシン3.𝐕𝐚𝐧𝐢𝐥𝐋𝐚3.紫宮【空澄セナ⧸ぶいすぽっ！】 [xSEM_okTPtY].live_chat.json
+2025-04-29 13:50:02,622 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=vZk0zyu4A3I - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=vZk0zyu4A3I - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=vZk0zyu4A3I']' returned non-zero exit status 1.
+2025-04-29 13:50:32,884 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=GnPyv6BxAxg - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=GnPyv6BxAxg - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=GnPyv6BxAxg']' returned non-zero exit status 1.
+2025-04-29 13:50:42,246 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=SkvVmrcPTOQ - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=SkvVmrcPTOQ - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=SkvVmrcPTOQ']' returned non-zero exit status 1.
+2025-04-29 16:55:46,933 - ERROR - エラー発生: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=id%2Csnippet&channelId=UCIcAj6WkJ8vZ7DeJVgmeqKw&maxResults=50&order=date&publishedBefore=2025-04-27&key=AIzaSyCfnk8M5KndLVlsoEWJt3nOEVf0okdTozw&alt=json returned "Invalid value at 'published_before' (type.googleapis.com/google.protobuf.Timestamp), Field 'published_before', Illegal timestamp format; timestamps must end with 'Z' or have a valid timezone offset.". Details: "[{'message': "Invalid value at 'published_before' (type.googleapis.com/google.protobuf.Timestamp), Field 'published_before', Illegal timestamp format; timestamps must end with 'Z' or have a valid timezone offset.", 'reason': 'invalid'}]">
+2025-04-29 16:55:46,934 - ERROR - これまでに取得したデータを保存しました。
+2025-04-29 16:58:07,847 - ERROR - エラー発生: <HttpError 400 when requesting https://youtube.googleapis.com/youtube/v3/search?part=id%2Csnippet&channelId=UCIcAj6WkJ8vZ7DeJVgmeqKw&maxResults=50&order=date&publishedBefore=2025-04-27&key=AIzaSyCfnk8M5KndLVlsoEWJt3nOEVf0okdTozw&alt=json returned "Invalid value at 'published_before' (type.googleapis.com/google.protobuf.Timestamp), Field 'published_before', Illegal timestamp format; timestamps must end with 'Z' or have a valid timezone offset.". Details: "[{'message': "Invalid value at 'published_before' (type.googleapis.com/google.protobuf.Timestamp), Field 'published_before', Illegal timestamp format; timestamps must end with 'Z' or have a valid timezone offset.", 'reason': 'invalid'}]">
+2025-04-29 16:58:07,847 - ERROR - これまでに取得したデータを保存しました。
+2025-04-30 13:47:25,741 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=bx1-cTN0Zas - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=bx1-cTN0Zas - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=bx1-cTN0Zas']' returned non-zero exit status 1.
+2025-04-30 14:06:21,018 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=x5HvawdXBAY - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=x5HvawdXBAY - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=x5HvawdXBAY']' returned non-zero exit status 1.
+2025-04-30 14:53:01,260 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=bx1-cTN0Zas - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=bx1-cTN0Zas - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=bx1-cTN0Zas']' returned non-zero exit status 1.
+2025-04-30 15:04:05,092 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=x5HvawdXBAY - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=x5HvawdXBAY - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=x5HvawdXBAY']' returned non-zero exit status 1.
+2025-04-30 15:42:22,832 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=x5HvawdXBAY - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=x5HvawdXBAY - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=x5HvawdXBAY']' returned non-zero exit status 1.
+2025-04-30 16:34:29,438 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=QQxqUEFcx1E - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=QQxqUEFcx1E - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=QQxqUEFcx1E']' returned non-zero exit status 1.
+2025-04-30 17:23:34,248 - ERROR - ⚠️ エラー発生: https://www.youtube.com/watch?v=x5HvawdXBAY - コマンド: dl --skip-download --write-subs --sub-lang live_chat -o live_chat/%(title)s [%(id)s].%(ext)s --cookies cookies.txt https://www.youtube.com/watch?v=x5HvawdXBAY - Command '['dl', '--skip-download', '--write-subs', '--sub-lang', 'live_chat', '-o', 'live_chat/%(title)s [%(id)s].%(ext)s', '--cookies', 'cookies.txt', 'https://www.youtube.com/watch?v=x5HvawdXBAY']' returned non-zero exit status 1.
+2025-04-30 19:27:46,142 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:46,166 - ERROR - コメントが抽出できませんでした: ohayo~~~~~~~~~~~~~~~~~.json
+2025-04-30 19:27:46,576 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:46,584 - ERROR - コメントが抽出できませんでした: 「アオイハル」歌ってみた 胡桃のあ⧸じゃすぱー.json
+2025-04-30 19:27:46,954 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:46,988 - ERROR - コメントが抽出できませんでした: 「第六感 ⧸ THE SIXTH SENSE」歌ってみた 胡桃のあ.json
+2025-04-30 19:27:48,360 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:48,405 - ERROR - コメントが抽出できませんでした: 【#V最協第一幕】もかちゃんと一緒にVTuber最協決定戦 観戦します！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:48,837 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:48,853 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS GOLD RUSH】ボドカさん、羽継さんと一緒にがんばる！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:49,159 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:49,173 - ERROR - コメントが抽出できませんでした: 【APEX LEGENDS】やったー！ふるぱだー！ w⧸ツクモさん、てとち【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:49,527 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:49,728 - ERROR - コメントが抽出できませんでした: 【APEX】ちょっとだけソロランク行こ～っと【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:50,164 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:50,229 - ERROR - コメントが抽出できませんでした: 【APEX】めっちゃ久しぶりの！ w⧸ハセ、てとち【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:50,787 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:50,828 - ERROR - コメントが抽出できませんでした: 【APEX】わーいぶいすぽフルパうれしい(＊^^＊)🎵w⧸つな、らむち【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:51,345 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:51,359 - ERROR - コメントが抽出できませんでした: 【APEX】わーるずえっじふるぱ✌ w⧸ハセシンさん、天月さん【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:51,790 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:51,805 - ERROR - コメントが抽出できませんでした: 【APEX】フルパランクいくよ♩w⧸ゴリラさん、つくもさん【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:52,109 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:52,117 - ERROR - コメントが抽出できませんでした: 【APEX】今日はオリンパスですって！！ w⧸ハセシンさん、碧依さくらさん【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:52,434 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:52,450 - ERROR - コメントが抽出できませんでした: 【Call of Duty Warzone】ハセとてとちとWinRedさんのフルパ！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:53,387 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:53,409 - ERROR - コメントが抽出できませんでした: 【FEIGN】ぶいすぽっ！おばか人狼やります(#^.^#)ｗ⧸すーちゃん、なずちゃん、ととちゃん、ミミちゃん、れん、つな、こかげちゃん、はなびちゃん、もかちゃん【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:53,693 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:53,702 - ERROR - コメントが抽出できませんでした: 【FORTNITE】みんなとパンどろぼう…❓パンあつめゲームするぞ！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:54,089 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:54,103 - ERROR - コメントが抽出できませんでした: 【FORTNITE】フォートナイトBallistic✨とりあえず楽しみますかぁ！！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:54,549 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:54,564 - ERROR - コメントが抽出できませんでした: 【League of Legends】TOPを教えてくれないか(T_T)❓【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:55,402 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:55,437 - ERROR - コメントが抽出できませんでした: 【League of Legends】お前らはそっちでやってろ、ここは…孤島【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:55,729 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:55,741 - ERROR - コメントが抽出できませんでした: 【League of Legends】ぜろすとさんにコーチングしてもらう🐸【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:56,058 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:56,069 - ERROR - コメントが抽出できませんでした: 【League of Legends】ただひたすらにおまえを殴る【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:56,348 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:56,354 - ERROR - コメントが抽出できませんでした: 【League of Legends】めっちゃ久しぶりやねんけど！ w⧸うひ【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:56,715 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:56,724 - ERROR - コメントが抽出できませんでした: 【League of Legends】ロル→ジム→ボイトレ→コラボ【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:57,088 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:57,099 - ERROR - コメントが抽出できませんでした: 【LOL】ここはぼくに任せてみんなは寝て【ぶいすぽっ！胡桃のあ.json
+2025-04-30 19:27:57,392 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:57,403 - ERROR - コメントが抽出できませんでした: 【LOL】ピピーッ❗️🔔⚡️コメント警察です❗️👊👮❗️アナタのコメント💕は❌ちくちく禁止法❌第213条🙋「負けている試合でちくちくコメントしてはいけなぃ❗️」に違反しています😡【ぶいすぽっ！胡桃のあ.json
+2025-04-30 19:27:57,720 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:57,726 - ERROR - コメントが抽出できませんでした: 【LOL】人とできる喜び w⧸ふらんしすこさん、もんど、せりーさん、ありさかさん【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:58,439 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:58,457 - ERROR - コメントが抽出できませんでした: 【PUBG】ぶいすぽぱぶじ w⧸ミミちゃん、なずちゃん、リサ【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:58,786 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:58,795 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】ありけんさんと！！(ツ)【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:27:59,928 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:27:59,959 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】かずのこさんにコーチングしてもらう！🔥【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:00,540 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:00,560 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】がんばることをがんばってがんばる【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:00,966 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:00,983 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】がんばることをがんばる【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:01,397 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:01,412 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】すこしでも上を目指そう～【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:01,848 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:01,875 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】すこし寝たらめっちゃ元気になった☀【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:02,586 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:02,616 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】なぜか８連勝している…このままマスターに行けるのか？【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:03,298 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:03,320 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】ぶいすぽ対戦会に参加するぞ～！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:03,866 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:03,887 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】まずはプラチナを目指す！！🔥【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:04,410 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:04,422 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】イベント本番まであと３日【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:04,871 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:04,888 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】キャミィぷらちな🐈【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:05,331 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:05,354 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】シスコさんと勝負するぞ！！！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:05,699 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:05,707 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】ジムの準備まで～【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:06,614 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:06,635 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】ダイヤに上がったら次はコーチング！w⧸かずのこさん【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:07,406 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:07,436 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】ダイヤに上がる【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:07,853 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:07,860 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】ボイトレまで【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:08,243 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:08,251 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】マスターランク少しやる🔥【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:08,679 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:08,692 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】今回ぼくは【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:09,169 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:09,187 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】今日から練習開始！本気で！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:10,270 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:10,293 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】冷静に、次はダイヤ３【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:11,070 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:11,092 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】出張行く前やりたくてアラームかけた🔥ねむい【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:11,441 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:11,447 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】危ないぞ？🐈w⧸かずのこさん【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:11,735 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:11,746 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】夕刻ロベル、かかってこい！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:12,692 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:12,728 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】弱さを知って w⧸れん、もかちゃん【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:13,007 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:13,011 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】打合せあるからすこしだけ【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:13,359 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:13,367 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】明日本番！さいごはキャラ対がんばるぞー！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:14,058 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:14,082 - ERROR - コメントが抽出できませんでした: 【STREET FIGHTER 6】👆行くぜ【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:14,569 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:14,587 - ERROR - コメントが抽出できませんでした: 【VALORANT】1か月ぶりのコンペ認定戦する【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:15,138 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:15,153 - ERROR - コメントが抽出できませんでした: 【VALORANT】おんなのこふるぱ！w⧸エマちゃん、つな、ゆいちゃん、あかりちゃん【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:15,620 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:15,629 - ERROR - コメントが抽出できませんでした: 【VALORANT】すちゃーんとDUOいくぞ【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:16,384 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:16,416 - ERROR - コメントが抽出できませんでした: 【VALORANT】ぶいすぽふるぱ w⧸すみれ、なずちゃん、うひ、エマちゃん【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:16,758 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:16,765 - ERROR - コメントが抽出できませんでした: 【VALORANT】ソロ、プラチナです【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:17,365 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:17,397 - ERROR - コメントが抽出できませんでした: 【VALORANT】フルパ🌸w⧸ありさかさん、さくらさん、あかりん、らむち【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:18,019 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:18,035 - ERROR - コメントが抽出できませんでした: 【スーパーマリオパーティジャンボリー】わーい！ぶいすぽのみんなと遊ぶ～！(^-^)🎵 w⧸つな、あかりん、うひ【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:18,729 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:18,750 - ERROR - コメントが抽出できませんでした: 【モンスターハンターワイルズ 】ひとまずキャラクリから！！ ※ネタバレ注意.json
+2025-04-30 19:28:19,116 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:19,127 - ERROR - コメントが抽出できませんでした: 【モンスターハンターワイルズ 】救急隊のみんなと遊んでもらう🦖 ※ネタバレ注意 w⧸わきをさん、ロベさん、エマちゃん.json
+2025-04-30 19:28:19,354 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:19,359 - ERROR - コメントが抽出できませんでした: 【リングフィットアドベンチャー】汗かきたいです【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:19,855 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:19,869 - ERROR - コメントが抽出できませんでした: 【世界のアソビ大全51】つなとあそぶ～～🐈💓【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:20,095 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:20,099 - ERROR - コメントが抽出できませんでした: 【作業配信】むずかしいコードから逃げない【ぶいすぽっ！⧸胡桃のあ】.json
+2025-04-30 19:28:20,799 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:20,809 - ERROR - コメントが抽出できませんでした: 【作業配信】久しぶりに【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:21,174 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:21,187 - ERROR - コメントが抽出できませんでした: 【作業配信】🎸一旦chill🎵【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:21,444 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:21,448 - ERROR - コメントが抽出できませんでした: 【作業🎸】アコギ歴2週間になったぞ！(´・ω・｀)【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:22,778 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:22,850 - ERROR - コメントが抽出できませんでした: 【呪われたデジカメ】今年のくるーみはがんばりますよ【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:23,199 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:23,212 - ERROR - コメントが抽出できませんでした: 【弾き語り…？】この配信は時間が経ったときに見返す【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:23,639 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:23,654 - ERROR - コメントが抽出できませんでした: 【縦型】アコギに触れましょう【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:24,297 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:24,315 - ERROR - コメントが抽出できませんでした: 【縦型】怠惰を極めたモノなり【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:24,804 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:24,823 - ERROR - コメントが抽出できませんでした: 【縦型配信】ねむれない子ど～こだ【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:27,976 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:28,053 - ERROR - コメントが抽出できませんでした: 【誕生日記念配信🍰】誕生日迎えました！みんないつもありがとう💕 #胡桃のあ誕生日2025【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:28,858 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:28,891 - ERROR - コメントが抽出できませんでした: 【雑談】#VSPO_SHOWDOWN おつかれさまでした！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:29,407 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:29,424 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#28 すごくひさびさに感じるね【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:29,895 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:29,908 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#29 今日はもうくたくたです【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:30,386 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:30,397 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#30 １月最後のよふかし【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:30,982 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:30,997 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#31 ばれんたいんよふかし🍫【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:31,381 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:31,391 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#32 今日はなんと３回行動🌟【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:31,841 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:31,855 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#33 今月さいご【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:32,778 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:32,792 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#34 そしてまたすぐ始まる【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:33,324 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:33,375 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#35 今月さいごのよふざつ！【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:34,063 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:34,085 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#36 １周年らしいが【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:34,620 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:34,638 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#37 本日すこ～しねむたいday【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:35,218 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:35,248 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#38 どうやら明日は歌ってみたがあがるらしい【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:35,850 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:35,865 - ERROR - コメントが抽出できませんでした: 【🌃夜ふかし雑談】#39 今日も１日おつかれさまでした【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:36,353 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:36,366 - ERROR - コメントが抽出できませんでした: 【🎸】ねむれない人～【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:36,689 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:36,702 - ERROR - コメントが抽出できませんでした: 【🎸】ひきがたりします【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:37,009 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:37,040 - ERROR - コメントが抽出できませんでした: 【🎸】息抜きしたっていい【ぶいすぽっ！胡桃のあ】.json
+2025-04-30 19:28:37,772 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:37,789 - ERROR - コメントが抽出できませんでした: いろいろありまして.json
+2025-04-30 19:28:38,546 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:38,577 - ERROR - コメントが抽出できませんでした: ただいま～～のんびり弾こう～～～～.json
+2025-04-30 19:28:38,936 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:38,943 - ERROR - コメントが抽出できませんでした: ちょこっとギター弾き語り🎸.json
+2025-04-30 19:28:39,664 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:39,687 - ERROR - コメントが抽出できませんでした: むにゃ～～～～～～～～～ギター配信です.json
+2025-04-30 19:28:39,992 - ERROR - 予期しないエラーが発生しました: index 0 is out of bounds for axis 0 with size 0
+2025-04-30 19:28:39,997 - ERROR - コメントが抽出できませんでした: 生存.json
