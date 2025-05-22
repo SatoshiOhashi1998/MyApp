@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>YouTubeデータ送信</title>
+  <style>
+    /* ポップアップの全体スタイル */
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 200px;
+      padding: 20px;
+      margin: 0;
+      background-color: #f5f5f5;
+    }
+
+    /* タイトル */
+    h3 {
+      color: #333;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+
+    /* 入力フィールドのスタイル */
+    input[type="text"] {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 14px;
+    }
+
+    /* ボタンのスタイル */
+    button {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: background-color 0.3s;
+    }
+
+    /* ボタンホバー時 */
+    button:hover {
+      background-color: #45a049;
+    }
+
+    /* ボタンの下の余白 */
+    button + button {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h3>YouTubeデータ送信</h3>
+  <input type="text" id="query" placeholder="検索クエリを入力">
+  <button id="sendQuery">検索クエリを送信</button>
+  <button id="sendVideoId">動画IDを送信</button>
+  <script src="popup.js"></script>
+</body>
+</html>

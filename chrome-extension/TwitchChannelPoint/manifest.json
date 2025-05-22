@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Twitch Data Extractor",
+  "version": "1.0",
+  "description": "A Chrome extension to extract data from Twitch and send to Flask server.",
+  "permissions": [
+  "activeTab",
+  "tabs",
+  "storage",
+  "http://127.0.0.1:5000/*",
+  "scripting"  // 必要なAPIの権限を追加
+],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

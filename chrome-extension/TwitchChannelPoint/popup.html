@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Twitch Data Extractor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      width: 250px;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      color: #333;
+      font-size: 1.5em;
+      margin-bottom: 20px;
+    }
+    button {
+      display: inline-block;
+      margin-right: 5px;
+      margin-bottom: 5px;
+      padding: 10px 15px;
+      font-size: 1em;
+      color: #fff;
+      background-color: #007bff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    #result {
+      margin-top: 20px;
+      font-size: 1em;
+      color: #d9534f;
+    }
+  </style>
+</head>
+<body>
+  <h1>Twitch Data Extractor</h1>
+  
+  <button id="extract-data-button">データを取得して保存</button>
+  
+  <div id="result"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

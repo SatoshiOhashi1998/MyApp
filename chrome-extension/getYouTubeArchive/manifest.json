@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "YouTubeデータ送信",
+  "version": "1.0",
+  "description": "開いているYouTube動画のIDまたは検索クエリをFlaskエンドポイントに送信します。",
+  "permissions": ["tabs", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
